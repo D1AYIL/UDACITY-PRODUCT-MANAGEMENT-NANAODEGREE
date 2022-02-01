@@ -1,0 +1,33 @@
+User Testing
+
+MR.Tobi 
+Location: Nigeria
+Occupation: Logistics Personnel
+Married : Yes
+
+Used food delivery service : Yes
+Order Frequency: high 
+
+Issue with small delivery :
+------------------------
+No (+)
+Mentions his wife would rather walk though. (-)
+
+Opinion:
+--------
+Likes delivery irregardless of the distance (+)
+Excited by the idea of robot delivery (+)
+
+Robot Delivery 
+-----------------
+Exicted about the concept (+)
+Had suggestion on broadening the scope (+)
+
+
+Feedback on prototype
+Understands the framwork and can easily navigate (+)
+understands and appreciates planned functionality (+)
+Suggest developmement of other functionality (improvement areas)
+
+
+
